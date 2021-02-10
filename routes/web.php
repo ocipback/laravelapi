@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-//belajar gila
+//belajar gila routes
 Route::get('/', function () {
     return view('welcome');
 });
